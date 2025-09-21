@@ -83,19 +83,34 @@ flutter emulators --launch <emulator_id>
 <div align="center">
 
 ### 🏠 Fragment 1: TextFields
-<img src="screenshots/main_screen.png" width="250" alt="Pantalla Principal">
+![TextFields](assets/text.jpg)
 
 ### 🎛️ Fragment 2: Botones
-<img src="screenshots/buttons.png" width="250" alt="Botones">
+![Botones](assets/botones1.jpg)
+
+![Botones](assets/botones2.jpg)
+
 
 ### ☑️ Fragment 3: Elementos de selección
-<img src="screenshots/selection.png" width="250" alt="Selección">
+![Botones](assets/selec1.jpg)
+
+![Botones](assets/selec2.jpg)
+
 
 ### 📃 Fragment 4: Listas 
-<img src="screenshots/lists.png" width="250" alt="Listas">
+![Botones](assets/listas.jpg)
 
 ### ℹ️ Fragment 5: Elementos de información
-<img src="screenshots/info_elements.png" width="250" alt="Información">
+![Botones](assets/info1.jpg)
+
+![Botones](assets/info2.jpg)
+
+![Botones](assets/info3.jpg)
+
+![Botones](assets/info4.jpg)
+
+
+
 
 </div>
 
@@ -175,10 +190,15 @@ flutter emulators --launch <emulator_id>
    - El mismo código funciona perfectamente en Android e iOS
    - Facilita el mantenimiento al tener una sola base de código
 
-
-
-
 ---
+
+## Video 
+
+
+
+https://github.com/user-attachments/assets/51e87616-108a-41b0-aa30-1f6f1003b4b3
+
+
 
 
 </div>

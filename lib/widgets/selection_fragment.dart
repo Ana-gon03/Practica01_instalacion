@@ -24,8 +24,8 @@ class _SelectionFragmentState extends State<SelectionFragment> {
           buildSectionHeader('✅', 'Elementos de Selección'),
           SizedBox(height: 10),
           buildDescription(
-            'Permiten al usuario seleccionar opciones de forma individual o múltiple. '
-                'Incluyen checkboxes, radio buttons y switches.',
+            'Sirven para seleccionar opciones, ya sea múltiples '
+                'únicas o activar/desactivar estados.',
           ),
           SizedBox(height: 30),
 

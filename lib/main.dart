@@ -144,24 +144,30 @@ class _MainScreenState extends State<MainScreen> with TickerProviderStateMixin {
           bool isSelected = _currentIndex == index;
 
           return Tab(
-            height: 60,
+            height: 70, // Incrementé la altura para dar más espacio
             child: Container(
-              padding: EdgeInsets.symmetric(vertical: 8),
+              padding: EdgeInsets.symmetric(vertical: 4), // Reducí el padding vertical
               child: Column(
                 mainAxisSize: MainAxisSize.min,
+                mainAxisAlignment: MainAxisAlignment.center, // Centrar contenido
                 children: [
                   Icon(
                     tab.icon,
                     color: isSelected ? tab.color : Colors.grey,
-                    size: 24,
+                    size: 22, // Reducí ligeramente el tamaño del ícono
                   ),
-                  SizedBox(height: 4),
-                  Text(
-                    tab.title,
-                    style: TextStyle(
-                      fontSize: 10,
-                      color: isSelected ? tab.color : Colors.grey,
-                      fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                  SizedBox(height: 2), // Reducí el espacio entre ícono y texto
+                  Flexible( // Agregué Flexible para manejar overflow
+                    child: Text(
+                      tab.title,
+                      style: TextStyle(
+                        fontSize: 9, // Reducí el tamaño de fuente
+                        color: isSelected ? tab.color : Colors.grey,
+                        fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                      ),
+                      maxLines: 1, // Limité a una línea
+                      overflow: TextOverflow.ellipsis, // Agregar puntos suspensivos si es muy largo
+                      textAlign: TextAlign.center,
                     ),
                   ),
                 ],

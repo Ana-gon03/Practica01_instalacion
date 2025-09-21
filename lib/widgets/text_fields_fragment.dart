@@ -22,8 +22,7 @@ class _TextFieldsFragmentState extends State<TextFieldsFragment> {
           buildSectionHeader('📝', 'TextFields (EditText)'),
           SizedBox(height: 10),
           buildDescription(
-            'Los TextFields permiten al usuario introducir y editar texto. '
-                'Son fundamentales para formularios y entrada de datos.',
+            'Los TextFields Permiten al usuario ingresar y editar texto, como nombres, correos o contraseñas.',
           ),
           SizedBox(height: 30),
 

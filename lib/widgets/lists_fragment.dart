@@ -28,8 +28,8 @@ class _ListasFragmentState extends State<ListasFragment> {
               buildSectionHeader('📋', 'Listas (RecyclerView/ListView)'),
               SizedBox(height: 10),
               buildDescription(
-                'Las listas muestran datos de forma organizada y permiten scroll. '
-                    'Son perfectas para mostrar colecciones de elementos similares.',
+                'Muestran conjuntos de elementos de forma organizada '
+                    'y desplazable, ideales para listas largas.',
               ),
             ],
           ),

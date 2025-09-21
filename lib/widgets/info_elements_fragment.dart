@@ -44,8 +44,8 @@ class _InfoElementsFragmentState extends State<InfoElementsFragment>
           buildSectionHeader('ℹ️', 'Elementos de Información'),
           SizedBox(height: 10),
           buildDescription(
-            'Muestran información al usuario de forma visual y atractiva. '
-                'Incluyen textos, imágenes y barras de progreso.',
+            'Exhiben información al usuario, ya sea texto, '
+                'imágenes o el progreso de una tarea en ejecución.',
           ),
           SizedBox(height: 30),
 

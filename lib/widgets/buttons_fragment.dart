@@ -20,8 +20,8 @@ class _ButtonsFragmentState extends State<ButtonsFragment> {
           buildSectionHeader('🎨', 'Botones (Button, ImageButton)'),
           SizedBox(height: 10),
           buildDescription(
-            'Los botones permiten al usuario realizar acciones específicas. '
-                'Pueden contener texto, iconos o imágenes para mejorar la experiencia.',
+            'Se usan para ejecutar una acción al hacer clic, '
+                'ya sea con texto o con una imagen como ícono.',
           ),
           SizedBox(height: 30),
 

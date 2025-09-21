@@ -83,31 +83,58 @@ flutter emulators --launch <emulator_id>
 <div align="center">
 
 ### 🏠 Fragment 1: TextFields
-![TextFields](assets/text.jpg)
+
+<p align="center">
+  <img src="assets/text.jpg" alt="TextFields" width="400"/>
+</p>
 
 ### 🎛️ Fragment 2: Botones
-![Botones](assets/botones1.jpg)
 
-![Botones](assets/botones2.jpg)
+<p align="center">
+  <img src="assets/botones1.jpg" alt="Botones" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/botones2.jpg" alt="Botones" width="400"/>
+</p>
 
 
 ### ☑️ Fragment 3: Elementos de selección
-![Botones](assets/selec1.jpg)
 
-![Botones](assets/selec2.jpg)
+<p align="center">
+  <img src="assets/selec1.jpg" alt="Botones" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/selec2.jpg" alt="Botones" width="400"/>
+</p>
+
 
 
 ### 📃 Fragment 4: Listas 
-![Botones](assets/listas.jpg)
+
+<p align="center">
+  <img src="assets/listas.jpg" alt="Listas" width="400"/>
+</p>
 
 ### ℹ️ Fragment 5: Elementos de información
-![Botones](assets/info1.jpg)
 
-![Botones](assets/info2.jpg)
+<p align="center">
+  <img src="assets/info1.jpg" alt="Info 1" width="400"/>
+</p>
 
-![Botones](assets/info3.jpg)
+<p align="center">
+  <img src="assets/info2.jpg" alt="Info 2" width="400"/>
+</p>
 
-![Botones](assets/info4.jpg)
+<p align="center">
+  <img src="assets/info3.jpg" alt="Info 3" width="400"/>
+</p>
+
+<p align="center">
+  <img src="assets/info4.jpg" alt="Info 4" width="400"/>
+</p>
+
 
 
 

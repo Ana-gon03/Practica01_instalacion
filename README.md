@@ -85,56 +85,41 @@ flutter emulators --launch <emulator_id>
 ### 🏠 Fragment 1: TextFields
 
 <p align="center">
-  <img src="assets/text.jpg" alt="TextFields" width="400"/>
+  <img src="https://github.com/user-attachments/assets/56f62e32-4e5e-48dc-8e7b-ba6a4ae2b8d1" width="400">
 </p>
+
 
 ### 🎛️ Fragment 2: Botones
 
 <p align="center">
-  <img src="assets/botones1.jpg" alt="Botones" width="400"/>
-</p>
-
-<p align="center">
-  <img src="assets/botones2.jpg" alt="Botones" width="400"/>
+  <img src="https://github.com/user-attachments/assets/0bc6711d-33f4-4dd9-ae04-f5ac4732cf09" width="300">
+  <img src="https://github.com/user-attachments/assets/7aada388-4ae9-4188-a31a-d7da1ce6a82a" width="300">
 </p>
 
 
 ### ☑️ Fragment 3: Elementos de selección
 
-<p align="center">
-  <img src="assets/selec1.jpg" alt="Botones" width="400"/>
-</p>
 
 <p align="center">
-  <img src="assets/selec2.jpg" alt="Botones" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bed3d20d-d33c-4360-adbe-f882f7e99b75" width="300">
+  <img src="https://github.com/user-attachments/assets/fe8cb54d-5c66-4819-b21c-9de126f47451" width="300">
 </p>
-
 
 
 ### 📃 Fragment 4: Listas 
 
 <p align="center">
-  <img src="assets/listas.jpg" alt="Listas" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f2de1661-4b83-4bea-a383-1aad56628626" width="400">
 </p>
+
 
 ### ℹ️ Fragment 5: Elementos de información
 
-<p align="center">
-  <img src="assets/info1.jpg" alt="Info 1" width="400"/>
-</p>
 
 <p align="center">
-  <img src="assets/info2.jpg" alt="Info 2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/5041ecfa-f0d3-494a-a4c0-17f69411168c" width="300">
+  <img src="https://github.com/user-attachments/assets/e1d44645-5f66-45d9-9bc8-51bae2f1caf6" width="300">
 </p>
-
-<p align="center">
-  <img src="assets/info3.jpg" alt="Info 3" width="400"/>
-</p>
-
-<p align="center">
-  <img src="assets/info4.jpg" alt="Info 4" width="400"/>
-</p>
-
 
 
 
@@ -223,7 +208,10 @@ flutter emulators --launch <emulator_id>
 
 
 
-https://github.com/user-attachments/assets/51e87616-108a-41b0-aa30-1f6f1003b4b3
+
+https://github.com/user-attachments/assets/1f400b72-0a73-4d90-9821-cca66fcd6fee
+
+
 
 
 
